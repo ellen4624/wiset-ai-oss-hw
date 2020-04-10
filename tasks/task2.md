@@ -10,8 +10,8 @@ Learn Git Branching 사이트를 열어 모든 과제를 직접 끝내 봅시다
 ## 과제 완료 캡쳐 화면
 
 자신의 username이 적힌 그림 파일이 하단에 보여야 합니다.
-resources/task2_1.png
-resources/task2_2.png
+![learn-git-branching-level-1](../resources/task2_1.png)
+![learn-git-branching-level-1](../resources/task2_2.png)
 
 ![learn-git-branching-level-1](../resources/learn-git-branching-level1.png)
 
